@@ -1,0 +1,14 @@
+{
+    "name": "Orb of Foresight",
+    "type": "Divination",
+    "power_level": 85,
+    "enchantments": [
+        "Scrying",
+        "Precognition"
+    ],
+    "is_cursed": false,
+    "origin": {
+        "realm": "Ethereal Plane",
+        "era": "Ancient"
+    }
+}

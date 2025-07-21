@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/transmutation_magic/__init__.py
+src/transmutation_magic/spells.py
+src/transmutation_magic.egg-info/PKG-INFO
+src/transmutation_magic.egg-info/SOURCES.txt
+src/transmutation_magic.egg-info/dependency_links.txt
+src/transmutation_magic.egg-info/top_level.txt

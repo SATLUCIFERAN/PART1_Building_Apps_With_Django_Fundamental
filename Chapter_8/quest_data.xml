@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quest>
+  <Quest_id>QST-001</Quest_id>
+  <Title>The Whispering Caves Expedition</Title>
+  <Description>Investigate strange hums from the Whispering Caves. Recover any ancient texts.</Description>
+  <Reward_gold>500</Reward_gold>
+  <Difficulty>Medium</Difficulty>
+  <Objectives>
+    <ReachCaveEntrance>
+      <Name>Reach Cave Entrance</Name>
+      <Status>completed</Status>
+    </ReachCaveEntrance>
+    <LocateAncientTexts>
+      <Name>Locate Ancient Texts</Name>
+      <Status>pending</Status>
+    </LocateAncientTexts>
+    <ReturntoGuild>
+      <Name>Return to Guild</Name>
+      <Status>pending</Status>
+    </ReturntoGuild>
+  </Objectives>
+  <Assigned_to>Elara</Assigned_to>
+</Quest>

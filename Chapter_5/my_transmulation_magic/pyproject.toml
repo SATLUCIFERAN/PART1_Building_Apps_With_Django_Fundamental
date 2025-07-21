@@ -1,0 +1,29 @@
+
+[project]
+name            = "transmutation-magic"
+version         = "0.1.0"
+authors         = [ { name="Your Alchemist Name", email="your.email@example.com" } ]
+description     = "A collection of powerful transmutation spells."
+readme          = "README.md"
+requires-python = ">=3.8"
+
+# Remove the deprecated classifier:
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Topic :: Software Development :: Libraries :: Python Modules",
+  "Topic :: Games/Entertainment",
+]
+
+
+[project.urls]
+Homepage    = "https://github.com/yourusername/my-transmutation-magic"
+"Bug Tracker" = "https://github.com/yourusername/my-transmutation-magic/issues"
+
+[build-system]
+requires    = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

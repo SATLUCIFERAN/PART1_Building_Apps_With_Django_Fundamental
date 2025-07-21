@@ -1,0 +1,26 @@
+2025-07-20 16:48:17,844 - ritual_events - DEBUG - Initiating 'Binding of Shadows' ritual with ['Elara', 'Kael'] participants.
+2025-07-20 16:48:17,845 - ritual_events - INFO - Ritual 'Binding of Shadows' completed successfully.
+2025-07-20 16:48:17,845 - ritual_events - DEBUG - Initiating 'Summoning Lesser Imp' ritual with [] participants.
+2025-07-20 16:48:17,845 - ritual_events - ERROR - Ritual 'Summoning Lesser Imp' failed due to invalid setup: Ritual requires participants!
+2025-07-20 16:48:17,845 - ritual_events - DEBUG - Initiating 'Grand Transmutation' ritual with ['Master Alchemist', 'Journeyman'] participants.
+2025-07-20 16:48:17,847 - ritual_events - INFO - Ritual 'Grand Transmutation' completed successfully.
+2025-07-20 16:50:04,925 - ritual_events - DEBUG - Initiating 'Binding of Shadows' ritual with ['Elara', 'Kael'] participants.
+2025-07-20 16:50:04,926 - ritual_events - INFO - Ritual 'Binding of Shadows' completed successfully.
+2025-07-20 16:50:05,881 - ritual_events - DEBUG - Initiating 'Binding of Shadows' ritual with ['Elara', 'Kael'] participants.
+2025-07-20 16:50:05,882 - ritual_events - INFO - Ritual 'Binding of Shadows' completed successfully.
+2025-07-20 16:51:08,576 - ritual_events - DEBUG - Initiating 'Summoning Lesser Imp' ritual with [] participants.
+2025-07-20 16:51:08,576 - ritual_events - ERROR - Ritual 'Summoning Lesser Imp' failed due to invalid setup: Ritual requires participants!
+2025-07-20 16:51:13,412 - ritual_events - DEBUG - Initiating 'Summoning Lesser Imp' ritual with [] participants.
+2025-07-20 16:51:13,412 - ritual_events - ERROR - Ritual 'Summoning Lesser Imp' failed due to invalid setup: Ritual requires participants!
+2025-07-20 16:52:20,819 - ritual_events - DEBUG - Initiating 'Grand Transmutation' ritual with ['Master Alchemist', 'Journeyman'] participants.
+2025-07-20 16:52:20,819 - ritual_events - CRITICAL - Ritual 'Grand Transmutation' CRITICAL FAILURE: Ritual energies became unstable!
+2025-07-20 17:09:28,346 - ritual_events - DEBUG - Initiating 'Binding of Shadows' ritual with ['Elara', 'Kael'] participants.
+2025-07-20 17:09:28,347 - ritual_events - INFO - Ritual 'Binding of Shadows' completed successfully.
+2025-07-20 17:22:38,659 - ritual_events - DEBUG - Initiating 'Summoning Lesser Imp' ritual with [] participants.
+2025-07-20 17:22:38,660 - ritual_events - ERROR - Ritual 'Summoning Lesser Imp' failed due to invalid setup: Ritual requires participants!
+2025-07-20 17:44:00,769 - ritual_events - DEBUG - Initiating 'Binding of Shadows' ritual with ['Elara', 'Kael'] participants.
+2025-07-20 17:44:00,769 - ritual_events - INFO - Ritual 'Binding of Shadows' completed successfully.
+2025-07-20 17:44:00,769 - ritual_events - DEBUG - Initiating 'Summoning Lesser Imp' ritual with [] participants.
+2025-07-20 17:44:00,770 - ritual_events - ERROR - Ritual 'Summoning Lesser Imp' failed due to invalid setup: Ritual requires participants!
+2025-07-20 17:44:00,770 - ritual_events - DEBUG - Initiating 'Grand Transmutation' ritual with ['Master Alchemist', 'Journeyman'] participants.
+2025-07-20 17:44:00,771 - ritual_events - INFO - Ritual 'Grand Transmutation' completed successfully.

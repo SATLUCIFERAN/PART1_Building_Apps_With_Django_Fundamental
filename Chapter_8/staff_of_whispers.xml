@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<MagicalArtifact>
+  <Name>Staff of Whispers</Name>
+  <Type>Conjuration</Type>
+  <PowerLevel>95</PowerLevel>
+  <Enchantments>
+    <Enchantment>Whispering Guidance</Enchantment>
+    <Enchantment>Spirit Communication</Enchantment>
+  </Enchantments>
+  <Origin>
+    <Realm>Shadowfell</Realm>
+    <Era>Forgotten</Era>
+  </Origin>
+</MagicalArtifact>
